@@ -25,6 +25,7 @@ Follow these steps to run the project locally
 5. Go to http://localhost:5173
 
 Local Storage
+
 The application uses browser local storage to automatically save and load incident data between sessions. Changes are persisted instantly without any manual action.
 
 Github Link:-
