@@ -14,6 +14,7 @@ npm version 9.0.0 or higher
 
 Follow these steps to run the project locally
 1. Clone the repository:
+   
    git clone <https://github.com/shivang1311/AI-Safety-Incident-Reporting.git>
    
    cd ai-safety-dashboard
