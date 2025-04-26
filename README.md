@@ -17,7 +17,7 @@ Follow these steps to run the project locally
    
    git clone <https://github.com/shivang1311/AI-Safety-Incident-Reporting.git>
    
-   cd ai-safety-dashboard
+   cd AI-Safety-Incident-Reporting
 3. Install the dependencies:
    npm install
 4. Start the server:
